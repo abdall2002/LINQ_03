@@ -1,0 +1,15 @@
+C:\Users\COMPUMARTS\source\repos\LINQ_03\LINQ03.Ex02\bin\Debug\net7.0\LINQ03.Ex02.exe
+C:\Users\COMPUMARTS\source\repos\LINQ_03\LINQ03.Ex02\bin\Debug\net7.0\LINQ03.Ex02.deps.json
+C:\Users\COMPUMARTS\source\repos\LINQ_03\LINQ03.Ex02\bin\Debug\net7.0\LINQ03.Ex02.runtimeconfig.json
+C:\Users\COMPUMARTS\source\repos\LINQ_03\LINQ03.Ex02\bin\Debug\net7.0\LINQ03.Ex02.dll
+C:\Users\COMPUMARTS\source\repos\LINQ_03\LINQ03.Ex02\bin\Debug\net7.0\LINQ03.Ex02.pdb
+C:\Users\COMPUMARTS\source\repos\LINQ_03\LINQ03.Ex02\obj\Debug\net7.0\LINQ03.Ex02.csproj.AssemblyReference.cache
+C:\Users\COMPUMARTS\source\repos\LINQ_03\LINQ03.Ex02\obj\Debug\net7.0\LINQ03.Ex02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\COMPUMARTS\source\repos\LINQ_03\LINQ03.Ex02\obj\Debug\net7.0\LINQ03.Ex02.AssemblyInfoInputs.cache
+C:\Users\COMPUMARTS\source\repos\LINQ_03\LINQ03.Ex02\obj\Debug\net7.0\LINQ03.Ex02.AssemblyInfo.cs
+C:\Users\COMPUMARTS\source\repos\LINQ_03\LINQ03.Ex02\obj\Debug\net7.0\LINQ03.Ex02.csproj.CoreCompileInputs.cache
+C:\Users\COMPUMARTS\source\repos\LINQ_03\LINQ03.Ex02\obj\Debug\net7.0\LINQ03.Ex02.dll
+C:\Users\COMPUMARTS\source\repos\LINQ_03\LINQ03.Ex02\obj\Debug\net7.0\refint\LINQ03.Ex02.dll
+C:\Users\COMPUMARTS\source\repos\LINQ_03\LINQ03.Ex02\obj\Debug\net7.0\LINQ03.Ex02.pdb
+C:\Users\COMPUMARTS\source\repos\LINQ_03\LINQ03.Ex02\obj\Debug\net7.0\LINQ03.Ex02.genruntimeconfig.cache
+C:\Users\COMPUMARTS\source\repos\LINQ_03\LINQ03.Ex02\obj\Debug\net7.0\ref\LINQ03.Ex02.dll
