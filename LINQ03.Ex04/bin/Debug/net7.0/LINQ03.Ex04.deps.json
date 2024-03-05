@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "LINQ03.Ex04/1.0.0": {
+        "dependencies": {
+          "LINQ03.Shared": "1.0.0"
+        },
+        "runtime": {
+          "LINQ03.Ex04.dll": {}
+        }
+      },
+      "LINQ03.Shared/1.0.0": {
+        "runtime": {
+          "LINQ03.Shared.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LINQ03.Ex04/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LINQ03.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

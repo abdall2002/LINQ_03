@@ -5,12 +5,12 @@ var collection = new ArrayList { 1, true, DateTime.Now };
 
 //var evenNumbers = numbers.Where(x => x % 2 == 0);
 //var blabla = numbers.Where(x => x % 2 == 0);
-IEnumerable<int> evenNumbers = numbers.Where(x => x % 2 == 0);   
+IEnumerable<int> evenNumbers = numbers.Where(x => x % 2 == 0);    // Construction
 numbers.Add(10);
 numbers.Add(12);
 numbers.Remove(4);
 
-foreach (var n in evenNumbers)
+foreach (var n in evenNumbers)     // Enumeration
 {
     Console.Write($" {n}");
 }
